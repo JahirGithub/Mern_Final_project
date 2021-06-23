@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(90deg, rgb(156, 219, 73) 0%, rgb(65, 51, 51) 100%);
+}
+h1{
+    text-align: center;
+    color: black;
+    
+}
+.singupForm{
+    background-color: rgb(255, 0, 119);
+    /* margin-left: 555px; */
+    text-align: center;
+    margin-right: 50%;
+}
